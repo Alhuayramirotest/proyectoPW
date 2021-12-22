@@ -50,9 +50,9 @@
     
             Contenido   <textarea name="Contenido" rows ="4" cols = "100">$contenido</textarea>
 
-        fecha registro  <input type="date" name="Fecha_registro" value="$fecha_registro">
+         fecha registro  <input type="date" name="Fecha_registro" value="$fecha_registro">
 
-        fecha vencimiento <input type="date" name="Fecha_vencimiento" value="$fecha_vencimiento">
+         fecha vencimiento <input type="date" name="Fecha_vencimiento" value="$fecha_vencimiento">
                         <input type='hidden' name='guardar' value='yes'>
                         <input type="submit" value="guardar">
                 
